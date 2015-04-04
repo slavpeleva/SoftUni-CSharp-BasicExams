@@ -1,0 +1,1 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe.config

@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Illuminati\bin\Debug\Illuminati.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Illuminati\bin\Debug\Illuminati.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Illuminati\bin\Debug\Illuminati.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Illuminati\obj\Debug\Illuminati.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Illuminati\obj\Debug\Illuminati.pdb

@@ -1,0 +1,5 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_11_April_evening\Cinema\Cinema\obj\Debug\Cinema.pdb

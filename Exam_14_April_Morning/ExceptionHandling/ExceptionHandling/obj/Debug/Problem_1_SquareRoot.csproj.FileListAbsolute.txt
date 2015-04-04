@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\ExceptionHandling\obj\Debug\Problem_1_SquareRoot.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

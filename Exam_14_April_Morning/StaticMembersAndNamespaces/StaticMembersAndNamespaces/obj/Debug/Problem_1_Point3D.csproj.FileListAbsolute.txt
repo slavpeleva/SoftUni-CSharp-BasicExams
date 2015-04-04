@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\Problem_1_Point3D.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.pdb

@@ -1,0 +1,5 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\Eclipse\bin\Debug\Eclipse.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\Eclipse\bin\Debug\Eclipse.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\Eclipse\bin\Debug\Eclipse.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\Eclipse\obj\Debug\Eclipse.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\Eclipse\obj\Debug\Eclipse.pdb

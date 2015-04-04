@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\_4_ConsoleInputOutput\bin\Debug\_4_ConsoleInputOutput.exe.config
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\_4_ConsoleInputOutput\bin\Debug\_4_ConsoleInputOutput.exe
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\_4_ConsoleInputOutput\bin\Debug\_4_ConsoleInputOutput.pdb
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\_4_ConsoleInputOutput\obj\Debug\FibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\_4_ConsoleInputOutput\obj\Debug\_4_ConsoleInputOutput.exe
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\_4_ConsoleInputOutput\obj\Debug\_4_ConsoleInputOutput.pdb

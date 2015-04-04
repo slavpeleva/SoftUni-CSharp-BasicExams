@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Triangle\Star\bin\Debug\Star.exe.config
+D:\Slavka - Softuni\CSharp-Test\Triangle\Star\bin\Debug\Star.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\Star\bin\Debug\Star.pdb
+D:\Slavka - Softuni\CSharp-Test\Triangle\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Triangle\Star\obj\Debug\Star.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\Star\obj\Debug\Star.pdb

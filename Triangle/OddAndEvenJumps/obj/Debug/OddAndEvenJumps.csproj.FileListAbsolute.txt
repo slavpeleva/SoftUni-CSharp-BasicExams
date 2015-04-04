@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Triangle\OddAndEvenJumps\bin\Debug\OddAndEvenJumps.exe.config
+D:\Slavka - Softuni\CSharp-Test\Triangle\OddAndEvenJumps\bin\Debug\OddAndEvenJumps.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\OddAndEvenJumps\bin\Debug\OddAndEvenJumps.pdb
+D:\Slavka - Softuni\CSharp-Test\Triangle\OddAndEvenJumps\obj\Debug\OddAndEvenJumps.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Triangle\OddAndEvenJumps\obj\Debug\OddAndEvenJumps.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\OddAndEvenJumps\obj\Debug\OddAndEvenJumps.pdb

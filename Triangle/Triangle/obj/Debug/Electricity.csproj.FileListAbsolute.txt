@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Triangle\Triangle\obj\Debug\Electricity.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Triangle\Triangle\bin\Debug\Triangle.exe.config
+D:\Slavka - Softuni\CSharp-Test\Triangle\Triangle\bin\Debug\Triangle.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\Slavka - Softuni\CSharp-Test\Triangle\Triangle\obj\Debug\Triangle.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\Triangle\obj\Debug\Triangle.pdb

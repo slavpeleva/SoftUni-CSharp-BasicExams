@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.exe.config
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.exe
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\WorkHours\bin\Debug\WorkHours.pdb
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.exe
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\WorkHours\obj\Debug\WorkHours.pdb

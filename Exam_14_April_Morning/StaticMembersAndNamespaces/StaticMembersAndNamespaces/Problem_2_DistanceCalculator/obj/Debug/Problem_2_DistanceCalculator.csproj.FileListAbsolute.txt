@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\Problem_2_DistanceCalculator\bin\Debug\Problem_2_DistanceCalculator.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\Problem_2_DistanceCalculator\bin\Debug\Problem_2_DistanceCalculator.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\Problem_2_DistanceCalculator\bin\Debug\Problem_2_DistanceCalculator.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\Problem_2_DistanceCalculator\obj\Debug\Problem_2_DistanceCalculator.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\Problem_2_DistanceCalculator\obj\Debug\Problem_2_DistanceCalculator.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\StaticMembersAndNamespaces\Problem_2_DistanceCalculator\obj\Debug\Problem_2_DistanceCalculator.pdb

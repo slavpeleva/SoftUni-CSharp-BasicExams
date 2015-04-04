@@ -1,0 +1,5 @@
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\NumbersIntervalDividableGivenNumber\bin\Debug\NumbersIntervalDividableGivenNumber.exe.config
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\NumbersIntervalDividableGivenNumber\bin\Debug\NumbersIntervalDividableGivenNumber.exe
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\NumbersIntervalDividableGivenNumber\bin\Debug\NumbersIntervalDividableGivenNumber.pdb
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\NumbersIntervalDividableGivenNumber\obj\Debug\NumbersIntervalDividableGivenNumber.exe
+D:\Slavka - Softuni\CSharp-Test\_4_ConsoleInputOutput\NumbersIntervalDividableGivenNumber\obj\Debug\NumbersIntervalDividableGivenNumber.pdb

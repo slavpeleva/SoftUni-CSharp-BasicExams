@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\OddEvenElements\bin\Debug\OddEvenElements.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\OddEvenElements\bin\Debug\OddEvenElements.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\OddEvenElements\obj\Debug\OddEvenElements.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\OddEvenElements\obj\Debug\OddEvenElements.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\OddEvenElements\obj\Debug\OddEvenElements.pdb

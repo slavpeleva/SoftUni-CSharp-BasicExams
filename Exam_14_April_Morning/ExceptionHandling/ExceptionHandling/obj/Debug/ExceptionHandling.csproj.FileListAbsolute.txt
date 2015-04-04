@@ -1,0 +1,1 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config

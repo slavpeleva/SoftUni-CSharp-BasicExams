@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\ExamSchedule\bin\Debug\ExamSchedule.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\ExamSchedule\bin\Debug\ExamSchedule.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\ExamSchedule\obj\Debug\ExamSchedule.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\ExamSchedule\obj\Debug\ExamSchedule.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_12_April\ExamSchedule\ExamSchedule\obj\Debug\ExamSchedule.pdb

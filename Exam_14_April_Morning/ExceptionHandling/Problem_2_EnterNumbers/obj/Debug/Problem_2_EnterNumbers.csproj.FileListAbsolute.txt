@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\Problem_2_EnterNumbers\bin\Debug\Problem_2_EnterNumbers.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\Problem_2_EnterNumbers\bin\Debug\Problem_2_EnterNumbers.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\Problem_2_EnterNumbers\bin\Debug\Problem_2_EnterNumbers.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\Problem_2_EnterNumbers\obj\Debug\Problem_2_EnterNumbers.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\Problem_2_EnterNumbers\obj\Debug\Problem_2_EnterNumbers.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_14_April_Morning\ExceptionHandling\Problem_2_EnterNumbers\obj\Debug\Problem_2_EnterNumbers.pdb

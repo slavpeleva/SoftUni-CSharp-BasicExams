@@ -1,0 +1,6 @@
+D:\Slavka - Softuni\CSharp-Test\Triangle\Tic-Tac-ToePower\bin\Debug\Tic-Tac-ToePower.exe.config
+D:\Slavka - Softuni\CSharp-Test\Triangle\Tic-Tac-ToePower\bin\Debug\Tic-Tac-ToePower.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\Tic-Tac-ToePower\bin\Debug\Tic-Tac-ToePower.pdb
+D:\Slavka - Softuni\CSharp-Test\Triangle\Tic-Tac-ToePower\obj\Debug\Tic-Tac-ToePower.csprojResolveAssemblyReference.cache
+D:\Slavka - Softuni\CSharp-Test\Triangle\Tic-Tac-ToePower\obj\Debug\Tic-Tac-ToePower.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\Tic-Tac-ToePower\obj\Debug\Tic-Tac-ToePower.pdb

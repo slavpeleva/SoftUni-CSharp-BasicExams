@@ -1,0 +1,5 @@
+D:\Slavka - Softuni\CSharp-Test\Triangle\HouseWithWindow\bin\Debug\HouseWithWindow.exe.config
+D:\Slavka - Softuni\CSharp-Test\Triangle\HouseWithWindow\bin\Debug\HouseWithWindow.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\HouseWithWindow\bin\Debug\HouseWithWindow.pdb
+D:\Slavka - Softuni\CSharp-Test\Triangle\HouseWithWindow\obj\Debug\HouseWithWindow.exe
+D:\Slavka - Softuni\CSharp-Test\Triangle\HouseWithWindow\obj\Debug\HouseWithWindow.pdb

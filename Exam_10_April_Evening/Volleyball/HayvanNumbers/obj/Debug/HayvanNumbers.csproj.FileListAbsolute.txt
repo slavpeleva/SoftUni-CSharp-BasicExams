@@ -1,0 +1,5 @@
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\HayvanNumbers\bin\Debug\HayvanNumbers.exe.config
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\HayvanNumbers\bin\Debug\HayvanNumbers.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\HayvanNumbers\bin\Debug\HayvanNumbers.pdb
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\HayvanNumbers\obj\Debug\HayvanNumbers.exe
+D:\Slavka - Softuni\CSharp-Test\Exam_10_April_Evening\Volleyball\HayvanNumbers\obj\Debug\HayvanNumbers.pdb
